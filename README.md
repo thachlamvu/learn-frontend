@@ -1,1 +1,3 @@
-# learn-js
+# Learning resources:
+  - Bedimcode
+  - FreeCodeCammp
